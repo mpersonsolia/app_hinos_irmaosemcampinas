@@ -2,6 +2,11 @@
   --background-light: #f4f4eb;
 
   --button-color: #808b74;
+
+  --border-radius: 8px;
+  --border-input: 1.5px solid #808b74;
+  --border-input-focus: 1.5px solid #e0927e;
+  --icon-focus: #e0927e;
 }
 
 body {

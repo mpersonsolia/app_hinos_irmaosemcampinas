@@ -1,0 +1,30 @@
+.inputSearch-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.inputSearch-input {
+  padding-left: 2.5rem;
+  height: 2rem;
+  width: 16rem;
+  margin: 1.5rem;
+
+  border-radius: var(--border-radius);
+  border: var(--border-input);
+}
+
+.inputSearch-input:focus {
+  border: var(--border-input-focus);
+}
+
+.inputSearch-icon {
+  position: absolute;
+  left: 1.875rem;
+  color: var(--button-color);
+  font-size: 1.375rem;
+}
+
+.inputSearch-container:focus-within .inputSearch-icon {
+  color: var(--icon-focus);
+}
