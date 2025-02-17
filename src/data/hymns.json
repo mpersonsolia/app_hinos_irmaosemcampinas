@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Alegria",
+    "content": [
+      {
+        "type": "verse",
+        "lines": [
+          "A alegria está no coração",
+          "De quem já conhece a Jesus.",
+          "A verdadeira paz só tem aquele",
+          "Quem já conhece a Jesus.",
+          "O sentimento mais precioso",
+          "Que vem do nosso Senhor,",
+          "É o amor que só tem quem",
+          "já conhece a Jesus."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": ["Aleluia, Amém!"]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Posso pisar uma tropa",
+          "E saltar as muralhas.",
+          "Aleluia, Aleluia! (2x)"
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Cristo é a Rocha da minha salvação,",
+          "Com Ele não há mais condenação."
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Posso pisar uma tropa e saltar as muralhas!",
+          "Aleluia, aleluia...(2x)"
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": ["Aleluia, Aleluia, Aleluia, Aleluia!"]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "O sentimento mais precioso,",
+          "Que vem do nosso Senhor,",
+          "É o amor que só tem",
+          "Quem já conhece a Jesus.",
+          "O sentimento mais precioso",
+          "Que vem do nosso Senhor,",
+          "É o amor que só tem quem",
+          "já conhece a Jesus."
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": ["Aleluia, Amém!"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Benção da Trindade",
+    "content": [
+      {
+        "type": "verse",
+        "lines": [
+          "Glória, glória ao Pai Santo!",
+          "Glória, glória ao Filho dai!",
+          "Glória, glória ao Epír'to!",
+          "Glória, glória ao Deus Triuno dai!"
+        ]
+      },
+      {
+        "type": "chorus",
+        "lines": [
+          "Demos glória,",
+          "Demos glória,",
+          "Demos glória!",
+          "ao nosso Deus.",
+          "Ao Pai, Filho e Espír'to!",
+          "Aleluia! Glória",
+          "Ao nosso Deus"
+        ]
+      },
+      {
+        "type": "verse",
+        "lines": [
+          "Glória ao Autor do plano,",
+          "Glória ao que O executou",
+          "Glória Àquele que O transmite",
+          "Ao Triuno Deus, louvor."
+        ]
+      }
+    ]
+  }
+]

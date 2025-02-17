@@ -1,17 +1,35 @@
-:root {
-  --background-light: #f4f4eb;
-
-  --button-color: #808b74;
-
-  --border-radius: 8px;
-  --border-input: 1.5px solid #808b74;
-  --border-input-focus: 1.5px solid #e0927e;
-  --icon-focus: #e0927e;
-}
-
 body {
   margin: 0;
-  font-family: Poppins, sans-serif;
+  font-family: "Poppins", serif;
+  color: #191919;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --background-light: #f4f4eb;
+  --background-dark: #e9ebe7;
+  --background-green: #808b74;
+
+  --button-color: #808b74;
+  --button-border: 0.063rem solid #d3d7cf;
+  --button-border-radius: 0.625rem;
+
+  --button-header-color: #f4f4eb;
+  --button-header-border: 0.063rem solid #808b74;
+
+  --border-radius: 0.5rem;
+  --border-input: 0.094rem solid #808b74;
+  --border-input-focus: 0.094rem solid #e0927e;
+  --icon-focus: #e0927e;
+
+  --color-white: #ffffff;
+  --color-green: #808b74;
+  --color-green-light: #d3d7cf;
+
+  --box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  --font-family: "Poppins";
+  --font-color-dark: #191919;
+  --font-color-green: #808b74;
 }

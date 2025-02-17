@@ -1,0 +1,13 @@
+.lyricsList-container {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.lyricsList-container-item {
+  text-decoration: none;
+}
